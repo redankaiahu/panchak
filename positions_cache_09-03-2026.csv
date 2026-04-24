@@ -1,0 +1,5 @@
+symbol,side,entry,sl,target,qty,trail_level,status,strategy,entry_time,net_pnl,daily_pnl_snapshot
+MCX,BUY,2575.0,2555.7,2613.6,10,0,OPEN,OPEN==LOW Break,09:32,0.0,0
+DMART,BUY,3962.4,3932.7,4021.8,10,0,OPEN,Gap+F15 BUY,09:33,0.0,0
+TORNTPHARM,BUY,4383.8,4350.9,4449.6,10,0,OPEN,OPEN==LOW Break,09:42,0.0,0
+DIVISLAB,BUY,6351.5,6304.0,6447.0,10,0,OPEN,EMA Pullback BUY,09:48,0.0,0

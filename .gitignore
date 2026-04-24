@@ -1,0 +1,37 @@
+# Caches and internal folders
+__pycache__/
+*.py[cod]
+*$py.class
+CACHE/
+historical_data/
+chromedriver.exe
+chrome_bot_profile/
+
+# Logs
+*.log
+logs/
+RunManager_*.txt
+Telegram_Trade_Agent_*.txt
+
+# Ignore specific large files
+*.zip
+*.pdf
+*.docx
+*.jpg
+*.xlsx
+
+# ALLOW only specific trading state/log files
+!execution_log*
+!paper_trades*
+!positions_cache*
+!multi_execution*
+!multi_paper*
+!multi_positions*
+!heatmap_nifty*
+!Telegram_Trade*
+
+# Also allow the sync scripts themselves
+!sync_state.py
+!run_all.py
+!login.py
+!*.py
