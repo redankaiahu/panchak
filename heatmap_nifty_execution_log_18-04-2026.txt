@@ -1,4 +1,0 @@
-[2026-04-18 22:02:14] ENGINE STARTED | MODE: PAPER
-[2026-04-18 22:02:50] 📂 15m EMA seed loaded from historical_data\candles_15m\candles_15m_2026-04-16.csv (195 symbols, up to 20 candles each)
-[2026-04-18 22:06:44] ENGINE STARTED | MODE: PAPER
-[2026-04-18 22:06:45] 📂 15m EMA seed loaded from historical_data\candles_15m\candles_15m_2026-04-16.csv (195 symbols, up to 20 candles each)
